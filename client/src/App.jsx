@@ -1,14 +1,18 @@
-import { useState } from 'react'
-
+import Dashboard from "./pages/Dashboard";
+import { Toaster } from "react-hot-toast";
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
-      <div className=''>hi</div>
+      <Toaster
+        position="top-right"
+        toastOptions={{
+          duration: 3000,
+        }}
+      />
+      <Dashboard />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
