@@ -10,11 +10,11 @@ Demo Video: **https://drive.google.com/file/d/1h3DNymeUhUYZP0SFiD3C2Hnycgxcncpi/
 
 ## Live Demo
 
-Frontend: **[Add Vercel Deployment Link Here]**
+Frontend: **https://crm-platform-pied.vercel.app/**
 
-Backend API: **[Add Render Deployment Link Here]**
+Backend API: **https://crm-platform-backend-76j4.onrender.com**
 
-GitHub Repository: **[Add GitHub Repository Link Here]**
+GitHub Repository: **https://github.com/Yashmali39/crm-platform**
 
 ---
 
@@ -183,7 +183,7 @@ Make sure the following are installed:
 ### Clone Repository
 
 ```bash
-git clone [YOUR_GITHUB_REPO_LINK]
+git clone https://github.com/Yashmali39/crm-platform
 cd crm-platform
 ```
 
@@ -206,7 +206,7 @@ npm install
 Create a `.env` file:
 
 ```env
-MONGODB_URI=your_mongodb_connection_string
+MONGODB_URI=*********
 PORT=3000
 ```
 
@@ -311,42 +311,8 @@ Example Response:
 
 ---
 
-# Screenshots
 
-### Dashboard
 
-(Add Dashboard Screenshot Here)
-
-### Add Lead Modal
-
-(Add Add Lead Modal Screenshot Here)
-
-### Search Functionality
-
-(Add Search Screenshot Here)
-
-### Analytics Dashboard
-
-(Add Pie Chart Screenshot Here)
-
----
-
-# Assignment Requirements Covered
-
-* ✅ Add New Leads
-* ✅ View Leads Dashboard
-* ✅ Update Lead Status
-* ✅ Edit Lead Details
-* ✅ Delete Leads
-* ✅ Search Leads
-* ✅ Lead Statistics Dashboard
-* ✅ Pagination
-* ✅ Responsive Design
-* ✅ Deployment
-* ✅ GitHub Repository
-* ✅ Live Demo
-
----
 
 # Future Improvements
 
